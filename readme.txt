@@ -1,7 +1,7 @@
 === Plugin Name ===
 Tags: contact form, in site deal management, deal bar, social bar, splash image, popups
 Requires at least: 3.0.1
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -28,6 +28,9 @@ You can get the API key from http://scrap.me/. After registration go to settings
 
 
 == Changelog ==
+
+= 1.1 =
+* Added shortcode scrapmelink for interactive hyperlinks.
 
 = 1.0 =
 * Initial relase.
