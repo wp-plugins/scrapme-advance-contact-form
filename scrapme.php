@@ -7,7 +7,7 @@
  Plugin Name: scrap.me
  Plugin URI: http://scrap.me/
  Description: Get an advance contact form for your site and offer site wide deals with additional tools like Deal Bar, Popups, Inline Popups, Social Bar, Leave intent targeting. Before activating the plugin please register an account from http://scrap.me and insert the API key here.
- Version: 1.0
+ Version: 1.1
  Author: scrap.me
  Author URI: http://scrap.me
  License: GPLv2
